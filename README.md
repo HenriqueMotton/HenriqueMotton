@@ -32,4 +32,7 @@
 </a>
 <a href="https://discord.gg/Park Henri#8103"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Park Henri#8103" height="30" width="40" />
 </a>
+      <a href = "mailto:henri.fmotton@gmail.com">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" align="center" height="30" width="40"/>
+      </a>
 </div>
