@@ -19,7 +19,7 @@
   
   <div><br>
 <h3 align="left">Contate-me:</h3>
-<a href="https://twitter.com/parkhenri4" target="_blank"> 
+<a target="_blank" href="https://twitter.com/parkhenri4" > 
    <img align="center" alt="parkhenri4" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>
 </a>
 <a href="https://linkedin.com/in/henrique-motton-037400154" target="_blank">
