@@ -19,17 +19,17 @@
   
   <div><br>
 <h3 align="left">Contate-me:</h3>
-<a href="https://twitter.com/parkhenri4" target="blank"> 
+<a href="https://twitter.com/parkhenri4" target="_blank"> 
    <img align="center" alt="parkhenri4" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>
 </a>
-<a href="https://linkedin.com/in/henrique-motton-037400154" target="blank">
+<a href="https://linkedin.com/in/henrique-motton-037400154" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique-motton-037400154" height="30" width="40"/>
 </a>
-<a href="https://fb.com/henrique.motton" target="blank">
+<a href="https://fb.com/henrique.motton" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="henrique.motton" height="30" width="40"/>
 </a>
-<a href="https://instagram.com/henriquemotton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henriquemotton" height="30" width="40" />
+<a href="https://instagram.com/henriquemotton" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henriquemotton" height="30" width="40" />
 </a>
-<a href="https://discord.gg/Park Henri#8103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Park Henri#8103" height="30" width="40" />
+<a href="https://discord.gg/Park Henri#8103" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Park Henri#8103" height="30" width="40" />
 </a>
 </div>
