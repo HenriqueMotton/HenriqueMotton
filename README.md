@@ -16,12 +16,10 @@
   <img align="center" alt="Henri-Vuetify" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg"/>
   <img align="center" alt="Henri-Postgress" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>  
   <img align="center" alt="Henri-Nodejs" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="Henri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Henri-Jaava" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> 
+  <img align="center" alt="Henri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> 
   <img align="center" alt="Henri-C" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   <img align="center" alt="Henri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Henri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="right"  alt="Henri-Foto" height="150" width="150" src="https://lh3.googleusercontent.com/pw/AM-JKLWRfdmKoxaHmXkJYn03ROhaYjRRQq-UVRIjwnSEUNo8YPcLqjSZ854WsQjpLaCz-_1X2BCRwPkZVPhL0NM5GUFX5XAducic7GPAB96OZ6ECerkTqeUgzPuEUWttqsa8K3LJeevOMkfrSQ6Ggm9NkHX6=s600-no?authuser=0">
 </div>
 
