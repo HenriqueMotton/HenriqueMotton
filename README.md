@@ -8,6 +8,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Henri-Docker" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Henri-Java" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
   <img align="center" alt="Henri-Angular" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
   <img align="center" alt="Henri-Typesc" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="Henri-Nuxtjs" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"/>
