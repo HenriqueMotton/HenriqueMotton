@@ -9,12 +9,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Henri-Docker" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Henri-Java" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
-  <img align="center" alt="Henri-Angular" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
-  <img align="center" alt="Henri-Typesc" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="Henri-Nuxtjs" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"/>
-  <img align="center" alt="Henri-Nestjs" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"/>
   <img align="center" alt="Henri-Vuejs" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
-  <img align="center" alt="Henri-Vuetify" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg"/>
+  <img align="center" alt="Henri-Angular" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
+  <img align="center" alt="Henri-React" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  <img align="center" alt="Henri-Typesc" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="Henri-Nestjs" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"/>
   <img align="center" alt="Henri-Postgress" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>  
   <img align="center" alt="Henri-Nodejs" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img align="center" alt="Henri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> 
