@@ -32,7 +32,6 @@ Atualmente trabalho com diversas tecnologias modernas e estou sempre buscando me
   <img title="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img title="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img title="OpenShift" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"/>
-  <img title="Keycloak" width="40" height="40" src="https://www.keycloak.org/resources/images/keycloak_icon_512px.svg"/>
 </div>
 
 ---
